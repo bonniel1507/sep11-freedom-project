@@ -1,11 +1,11 @@
 # SEP11 Freedom Project
-by X
+by Bonnie Lei
 
 ## Context
-The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
+The "Freedom Project" for SEP11 is all about making an interactive program using Javascript. The purpose of this blog is to record my process into creating one.
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am making a website that can help me store my passwords. This blog will walk through my process of independently studying Firebase in order to make the website.
 
 ## Links
 
