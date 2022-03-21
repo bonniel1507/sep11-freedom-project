@@ -11,9 +11,12 @@ We continued on our project with the google sign-in part. We did a very quick we
 </div>
 ```
 
-Import some functions from firebase first. The pop up when the user clicks login and the sign out when user logs out.
+Import some functions from firebase first. The pop up when the user clicks login and the sign out when user logs out. Also, create some var/const for later use.
 ```js
 import { getAuth, GoogleAuthProvider, signInWithPopup, signOut } from "https://www.gstatic.com/firebasejs/9.6.6/firebase-auth.js";
+
+const auth = getAuth(app)
+const provider = new GoogleAuthProvider(app);
 ```
 
 In the ide, we would need to listen for when the login button was clicked. We added an `.ddEventListener` for the login button. The `(e)` was the same thing as the event.
