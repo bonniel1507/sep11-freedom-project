@@ -28,6 +28,13 @@ login.addEventListener('click',(e) => {
 ```
 
 The following code was given in this [website](https://firebase.google.com/docs/auth/web/google-signin). The use of these codes was to when the login button was clicked, a pop up of Gmail will show and the user can choose which one they would like to sign in with.
+```js
+.then((result) => {
+const credential = GoogleAuthProvider.credentialFromResult(result);
+const token = credential.accessToken;
+const user = result.user;
+```
+
 
 Added a function or `.addEventListener` for users to sign out.
 ```js
