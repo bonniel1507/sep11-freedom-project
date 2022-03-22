@@ -27,7 +27,7 @@ In the ide, we would need to listen for when the login button was clicked. We ad
 login.addEventListener('click',(e) => {
 ```
 
-
+The following code was given in this [website](https://firebase.google.com/docs/auth/web/google-signin). The use of these codes was to when the login button was clicked, a pop up of Gmail will show and the user can choose which one they would like to sign in with.
 
 [Previous](entry03.md) | [Next](entry05.md)
 
