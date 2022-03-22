@@ -29,6 +29,19 @@ login.addEventListener('click',(e) => {
 
 The following code was given in this [website](https://firebase.google.com/docs/auth/web/google-signin). The use of these codes was to when the login button was clicked, a pop up of Gmail will show and the user can choose which one they would like to sign in with.
 
+Added a function or `.addEventListener` for users to sign out.
+```js
+signOut.addEventListener('click',(e) => {
+```
+This means that the user signs our successfully.
+```js
+signOut(auth).then(() => {
+```
+And when there's an error.
+```js
+}).catch((error) => {
+```
+
 The engineering design process we are at was Plan the most promising solution and Create a prototype. We were creating the we page not with the Google sign in. We also planned a head with the inner page when the user finishes login, what would they see. Also with the login page, it need some designs. The skills I developed during the process was Embracing failure and Problem decomposition. We encountered some problems, like it works, but not all the way. We would break down our code and try to find what the problem is and fix it. There's also like silly mistakes that there's a typo and that's why it was acting weird.
 
 [Previous](entry03.md) | [Next](entry05.md)
