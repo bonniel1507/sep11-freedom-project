@@ -1,7 +1,7 @@
 # Entry 4
 ##### 3/14/22
 
-We continued on our project with the google sign-in part. While watching the video for last time, I realized that the video was out of dated, there's code that I can't find on the firebase website anymore. So, I went to find another [video](https://firebase.google.com/docs/auth/web/google-signin) for the project.
+We continued on our project with the google sign-in part. While watching the video for last time, I realized that the video was out of dated, there's code that I can't find on the firebase website anymore. So, I went to find another [video](https://firebase.google.com/docs/auth/web/google-signin) for the project. We basically have to create a new folder with the html for the new tutorial because we don't know would the codes conflict each other.
 
 
 We did a very quick web page for sign-in button. It was just a testing right now, we will do the css later. 
