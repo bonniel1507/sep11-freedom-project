@@ -1,7 +1,7 @@
 # Entry 4
 ##### 3/14/22
 
-We continued on our project with the google sign-in part. While watching the video for last time, I realized that the video was out of dated, there's code that I can't find on the firebase website anymore. So, I went to find ano5
+We continued on our project with the google sign-in part. While watching the video for last time, I realized that the video was out of dated, there's code that I can't find on the firebase website anymore. So, I went to find another [video](https://firebase.google.com/docs/auth/web/google-signin) for the project.
 
 
 We did a very quick web page for sign-in button. It was just a testing right now, we will do the css later. 
@@ -27,7 +27,7 @@ In the ide, we would need to listen for when the login button was clicked. We ad
 login.addEventListener('click',(e) => {
 ```
 
-[irl](https://firebase.google.com/docs/auth/web/google-signin)
+
 
 [Previous](entry03.md) | [Next](entry05.md)
 
