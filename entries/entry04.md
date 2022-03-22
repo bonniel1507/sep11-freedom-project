@@ -1,7 +1,10 @@
 # Entry 4
 ##### 3/14/22
 
-We continued on our project with the google sign-in part. We did a very quick web page for sign-in button. It was just a testing right now, we will do the css later. 
+We continued on our project with the google sign-in part. While watching the video for last time, I realized that the video was out of dated, there's code that I can't find on the firebase website anymore. So, I went to find ano5
+
+
+We did a very quick web page for sign-in button. It was just a testing right now, we will do the css later. 
 ```html
 <div id ="LoginScreen">
   <button id = "login">Login with Google</button>
