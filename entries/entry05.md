@@ -1,7 +1,7 @@
 # Entry 5
-##### X/X/XX
+##### 4/2/22
 
-Text
+Now it was at like the end of the freedom project.
 
 [Previous](entry04.md) | [Next](entry06.md)
 
