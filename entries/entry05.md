@@ -21,7 +21,22 @@ onSnapshot(colRef, (snapshot) => {
 ```
 But, because our data was stored in the firestore database instead of the realtime database, we can make it to show only in the console for now.
 
-Now, we have the data shown, our goal was to be able to save informations, if there's new username and password, we need to be able to add more to it.
+Now, we have the data shown, our goal was to be able to save informations, if there's new username and password, we need to be able to add more to it. `addWebsiteForm was assigned with the add button and it would be listening when the person clicks it. `e.preventDefault()` is to prevent the page from refreshing. `addDoc()` will grab what the person filled in the text box for website, username and password and save in the firebase.
+```js
+const addWebsiteForm = document.querySelector('.add')
+addWebsiteForm.addEventListener('submit', (e) => {
+    e.preventDefault()
+    
+    addDoc(colRef, {
+        website: addWebsiteForm.website.value,
+        username: addWebsiteForm.username.value,
+        password: addWebsiteForm.password.value,
+    })
+    .then(() => {
+        addWebsiteForm.reset()
+    })
+})
+```
 
 [Previous](entry04.md) | [Next](entry06.md)
 
