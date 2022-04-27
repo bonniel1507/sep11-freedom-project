@@ -42,6 +42,8 @@ If there is a add function, there should be a delete function too. The delete fu
 
 Later, we also added a update function, so users can directly make changes and not delete that than add a new one. It's similar the the add function, it will take what the user put in the text box of the form and reassign the new username and password to the data.
 
+The engineering design process we are at was Test and evaluate the prototype and Improve as needed. We basically have the website simp
+
 [Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)
