@@ -1,8 +1,8 @@
 # Entry 5
 ##### 4/2/22
 
-Now it was at like the end of the freedom project. This time me and my partner will have a website that can save usernames and password using Firebase. https://m.youtube.com/playlist?list=PL4cUxeGkcC9jERUGvbudErNCeSZHWUVlb
-https://youtu.be/rQvOAnNvcNQ
+Now it was at like the end of the freedom project. This time me and my partner will have a website that can save usernames and password using Firebase. We uses this [playlist](https://m.youtube.com/playlist?list=PL4cUxeGkcC9jERUGvbudErNCeSZHWUVlb) and this [video](https://youtu.be/rQvOAnNvcNQ) with some errors occured.
+
 Before the code to show the informations. We declared some constants for later use.
 ```js
 const db = getFirestore()
