@@ -41,8 +41,17 @@ addWebsiteForm.addEventListener('submit', (e) => {
 If there is a add function, there should be a delete function too. The delete function is basically the same as the add function above.
 
 Later, we also added a update function, so users can directly make changes and not delete that than add a new one. It's similar the the add function, it will take what the user put in the text box of the form and reassign the new username and password to the data.
+```js
+updateDoc(docRef, {
+    username: updateForm.username.value,
+    password: updateForm.password.value,
+})
+.then(() => {
+    updateForm.reset()
+})
+```
 
-The engineering design process we are at was Test and evaluate the prototype and Improve as needed. We basically have the website simp
+The engineering design process we are at was Test and evaluate the prototype and Improve as needed. We basically have the website simpily done and we were testing it to work and made little improvement to the front end of the website. Me and my parrtner can latter dicuss on our project and add more improvement in the future. The skills I developed were Time Management and communication. Because me and my partner are free different time, so we worked on it alternativily and with a little time overlapping, so while she's working on the js, I will go to work on the html. Also with communication skills that we have to show what we did before we switch and explain it so we can understand and be able to pick up from where she left.
 
 [Previous](entry04.md) | [Next](entry06.md)
 
