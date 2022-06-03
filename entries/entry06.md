@@ -11,10 +11,15 @@ In the biggining, me and my partner was struggling becasue we don't understand a
 
 We had an expo in the cafeteria and we present our websites to vistors and some classes that came with their teacheres. I was so nervous sitting there. Me and my partner combined our elevator pitch and we decieded to take turns presenting and if either of us miss something, the other one would add in. We watch the judges getting closer to our number and I regconized one of the judges. They got to our nomber and I was the one presenting, there was a little trip while presenting, but it was going well at the end. When they were done, I went to the other side and saw some of the seniors' project, it was nice and I saw some of my classmates too. We also have an inclass presentation to do. Ws made a [Google Slide](https://docs.google.com/presentation/d/1kFnqtOINyyFJVw7nvAxm51T08Z0EVepC-RNjnmVNmig/edit?usp=sharing) to explai  our process to the class. I feel like we were so under prepare for the slides. I was also glad that I have a partner because for one slide I didn't explain well enough, but she comes in and explain it for me.
 
-#### Implication : pos/con impact
+### Implication
 
-##### Pros:
+#### Pro:
+Helps people to save passwords they forgets. So, people can avoid reseting their password everything they forget.
 
+#### Con:
+It's kind of dangerous to have your passwords online. It may got stolen or viewed by a stranger. This one you also needs to use a device to login and acess the data, so without connection, you can't see your data.
+
+The engineering design process we are at was Improve as needed. Base of the feedbacks we get from people we dicuss on adding more improvement to the project. The skills I developed were and communication. Because me and my partner are free different time, so we worked on it alternativily and with a little time overlapping, so while she's working on the js, I will go to work on the html. Also with communication skills that we have to show what we did before we switch and explain it so we can understand and be able to pick up from where she left.
 
 [Previous](entry05.md) | [Next](entry07.md)
 
