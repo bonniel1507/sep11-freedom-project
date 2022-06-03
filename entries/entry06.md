@@ -13,6 +13,7 @@ We had an expo in the cafeteria and we present our websites to vistors and some 
 
 #### Implication : pos/con impact
 
+##### Pros:
 
 
 [Previous](entry05.md) | [Next](entry07.md)
