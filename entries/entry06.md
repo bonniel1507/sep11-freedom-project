@@ -7,10 +7,13 @@ This project was created for people who kept forgetting their passwords. There a
 
 ### Content
 
-In the biggining, me and my partner was struggling becasue we don't understand and we didn't realize that we were using wrong tutorials. Those videos was for the older verison of Firebase. And those confused us because we tried it and it's not working. We went through many videos and we have many useless codes in our project. We have to go up to someone for help. We got very useful videos on Youtube thats about Firebase 9. It's also difficult for us because we have to message each other through text messages
+In the biggining, me and my partner was struggling becasue we don't understand and we didn't realize that we were using wrong tutorials. Those videos was for the older verison of Firebase. And those confused us because we tried it and it's not working. We went through many videos and we have many useless codes in our project. We have to go up to someone for help. We got very useful videos on Youtube thats about Firebase 9. It's also difficult for us because we have to message each other through text messages and having other things that doesn't allow us to work on it the same time. So, other than test messages, we created a Google Doc and put our process in there and explain the purpose of the code we individually added. We have something at the end at least.
 
 
 #### Implication : pos/con impact, links
+
+[Product](https://bonniel1507.github.io/the-pass-saver/dist/index.html)
+
 
 [Previous](entry05.md) | [Next](entry07.md)
 
