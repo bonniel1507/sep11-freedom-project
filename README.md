@@ -9,12 +9,19 @@ For my project, I am making a website that can help me store my passwords. This 
 
 ## Links
 
-Product
+[Product](https://bonniel1507.github.io/the-pass-saver/dist/index.html)
 
-Presentation
+[Presentation](https://docs.google.com/presentation/d/1kFnqtOINyyFJVw7nvAxm51T08Z0EVepC-RNjnmVNmig/edit?usp=sharing)
 
 ## Implications
-X
+
+### Pros
+* All passwords saved in one place
+* No need to be afraid of forgeting your passwords and have to reset
+
+### Cons
+* Not acessable without internet
+* It's online and may get hacked
 
 ---
 
@@ -24,7 +31,7 @@ X
 * [Blog Entry 4](entries/entry04.md)
 * [Blog Entry 5](entries/entry05.md)
 * [Blog Entry 6](entries/entry06.md)
-* [Blog Entry 7](entries/entry07.md)
+<!-- * [Blog Entry 7](entries/entry07.md)
 * [Blog Entry 8](entries/entry08.md)
 * [Blog Entry 9](entries/entry09.md)
-* [Blog Entry 10](entries/entry10.md)
+* [Blog Entry 10](entries/entry10.md) -->
